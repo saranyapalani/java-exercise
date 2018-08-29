@@ -1,0 +1,9 @@
+package saran;
+
+public class Testimmutablestring {
+		 public static void main(String args[]){  
+			   String s="mahendra singh";  
+			   s.concat(" dhoni");//concat() method appends the string at the end  
+			   System.out.println(s);//will print mahendra singh because strings are immutable object  
+			 }  
+			}  

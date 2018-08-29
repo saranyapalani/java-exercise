@@ -1,0 +1,10 @@
+package saran;
+
+public class Sample {
+	public static void main(String args[]){  
+			String s="Saranya";  
+			System.out.println(s.toUpperCase());//SARANYA 
+			System.out.println(s.toLowerCase());//saranya 
+			System.out.println(s);//Saranya(no change in original)  
+}
+}

@@ -1,0 +1,8 @@
+package saran;
+
+public class TestStringConcatenation1 {
+		 public static void main(String args[]){  
+			   String s="virat"+" kohli";  
+			   System.out.println(s);//Sachin Tendulkar  
+			 }  
+}
