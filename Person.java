@@ -1,6 +1,5 @@
-package javaexercise;
+package sdn;
 
-public class Person {
-		void message(){System.out.println("welcome");}  
-		}  
-
+public abstract class Person {
+	abstract void eat();  
+}
