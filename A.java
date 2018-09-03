@@ -1,6 +1,7 @@
-package sarr;
+package pack1;
 
-public class A {
-		void msg(){System.out.println("Hello");}  
-
+public class A {  
+			  void msgg() {System.out.println("Hello");}  
 }
+		  
+

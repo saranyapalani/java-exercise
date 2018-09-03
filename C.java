@@ -1,8 +1,5 @@
-package sarr;
+package pack1;
 
-public class C extends A,B{
-	Public Static void main(String args[]){  
-			   C obj=new C();  
-			   obj.msg();
-			}  
+public class C { 
+		  void msg() {System.out.println("Hello");}  
 }

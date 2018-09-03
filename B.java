@@ -1,6 +1,12 @@
-package sarr;
+package mypack;
+	import pack1.*;  
+	public class B {  
 
-public class B {
-		void msg(){System.out.println("Welcome");}
+	public static void main(String args[]){  
+	   A obj = new A();//Compile Time Error  
+	   obj.msg();//Compile Time Error  
+	  }  
+	}  
 
-}
+
+

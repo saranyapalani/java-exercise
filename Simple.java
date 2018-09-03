@@ -1,11 +1,9 @@
-package simple;
+package LLL;
 
-public class Simple {  
-			    public static void main(String args[]){  
-			     System.out.println("Hello Java");  
-			    }  
-			}  
+public class Simple {
 
+	private class String {
 
+	}
 
-
+}
